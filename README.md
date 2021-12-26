@@ -1,6 +1,6 @@
 # uri200 utils 
 
-This is a collection
+This is my collection of utilities
 
 ## git_comment_counter.py
 This is a script that allows you to get a count of all the coments per user on a repo. The script
